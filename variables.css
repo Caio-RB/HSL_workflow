@@ -1,0 +1,15 @@
+:root{
+		/*main colors*/
+	--primary-color:#000e40;
+	--secondary-color:#a6e1ff;
+	--tertiary-color:#ffffff;
+	--quaternary-color:#ff4e33;
+		/*complementary colors*/
+	--logo-color:#0037ff;
+	--action-color:#e5ff00;
+	--silent-color:#d1b287;
+		
+		/* Anchor states */
+	--active-link-color:#ffffff;
+	--disabled-link-color:#808080;
+}
