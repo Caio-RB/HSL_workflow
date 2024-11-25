@@ -15,17 +15,17 @@
 }
 
 .menu__link:link, .menu__link:visited{
-    color: grey;
+    color: var(--disabled-link-color);
 }
 
 .menu__link:hover, .menu__link:active{
-    color:white;
+    color:var(--active-link-color);
 }
 .menu__container{
 	width:100vw;
 	height:10vh;
 	background-color:var(--primary-color);
-	color:white;
+	color:var(--tertiary-color);
     display: flex;
     overflow: hidden;
 }
