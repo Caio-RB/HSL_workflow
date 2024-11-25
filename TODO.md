@@ -44,5 +44,18 @@
 
 ## Backend
 
+### Medicamento
+- [ ] Lista de medicamentos com valores: ID, CODIGO DO PRODUTO E NOME DO PRODUTO ;
 ### Ramal
-- [ ] GET /ramals
+- [] Armazenar em uma tabela os ramais com uma breve descrição;
+## Modelos de Documentoss
+- [] Armazenar modelos de documentos padrão do hospital: Passagem de plantão médica, técnica de enfermagem e médico;
+## Controle da Validade dos Medicamentos
+- [] Armazenar os medicamentos(multidoses) de todos os andares e monitorar sua data de validade remotamente pela plataforma.
+## Certificado de recebimento de material e medicamentos
+- [] Após a entrega de material, um contrato digital devera ser assinado por ambas as partes, depois ser armazenado no database.
+## Canal de comunicação
+- [] Após cada alteração/atualização, será emitida uma notificação das mudaças;
+## IDEIAS
+- [] Data expiração de medicamentos com timer(aviso da data validade);
+- [] Armazenar documentos modelos(exemplo: passagem de plantão);
